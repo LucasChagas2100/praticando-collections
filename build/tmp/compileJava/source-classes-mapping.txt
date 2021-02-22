@@ -2,3 +2,5 @@ list/ExemploList.java
  list.ExemploList
 list/ExemploVector.java
  list.ExemploVector
+queue/ExemploLinkedList.java
+ queue.ExemploLinkedList

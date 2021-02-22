@@ -52,7 +52,6 @@ public class ExemploList {
         Iterator<String> iterator = nomes.iterator();
         while (iterator.hasNext()){ //retorna true se há mais elementos a ser visto
             System.out.println("++++"+iterator.next()); //retorna valor da iteração atual
-            iterator.
         }
 
 
