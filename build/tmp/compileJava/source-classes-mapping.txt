@@ -2,8 +2,10 @@ Optional/ExemploOptionalPrimitivos.java
  Optional.ExemploOptionalPrimitivos
 Comparators/ComparatorsExampleList.java
  Comparators.ComparatorsExampleList
-list/ExemploVector.java
- list.ExemploVector
+StreamAPI/ExemploStreamAPI.java
+ StreamAPI.ExemploStreamAPI
+Optional/ExemploOptional.java
+ Optional.ExemploOptional
 list/ExemploList.java
  list.ExemploList
 set/ExemploLinkedHashSet.java
@@ -24,7 +26,5 @@ Optional/ExemploOptionalEstados.java
  Optional.ExemploOptionalEstados
 map/ExemploHashMap.java
  map.ExemploHashMap
-StreamAPI/ExemploStreamAPI.java
- StreamAPI.ExemploStreamAPI
-Optional/ExemploOptional.java
- Optional.ExemploOptional
+list/ExemploVector.java
+ list.ExemploVector
