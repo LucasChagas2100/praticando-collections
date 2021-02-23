@@ -10,3 +10,13 @@ set/ExemploTreeSet.java
  set.ExemploTreeSet
 set/ExemploHashSet.java
  set.ExemploHashSet
+Comparators/Estudante.java
+ Comparators.Estudante
+Comparators/EstudanteOrdemIdadeReversaComparator.java
+ Comparators.EstudanteOrdemIdadeReversaComparator
+map/ExemploTreeMap.java
+ map.ExemploTreeMap
+map/ExemploHashMap.java
+ map.ExemploHashMap
+Comparators/ComparatorsExampleList.java
+ Comparators.ComparatorsExampleList
